@@ -2,7 +2,7 @@
 # Released under the term specified in file LICENSE.txt
 # SPDX short identifier: MIT
 
-name: 'get-cmake'
+name: 'brinkqiang-get-cmake'
 description: 'Installs CMake and Ninja, and caches them on cloud based GitHub cache, and/or on the local GitHub runner cache.'
 author: 'Luca Cappa https://github.com/lukka'
 runs:
